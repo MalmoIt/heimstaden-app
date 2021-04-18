@@ -204,7 +204,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\HeimstadenApp\HeimstadenApp.csproj">
-      <Project>{A682884C-CB44-4A89-B752-27BB634E0ABE}</Project>
+      <Project>{EBBEAA02-14D1-4AA1-AB02-C3421E9EEC8B}</Project>
       <Name>HeimstadenApp</Name>
     </ProjectReference>
   </ItemGroup>
